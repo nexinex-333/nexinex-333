@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nexinex-333
+- 👀 I’m interested in volleyball, sports anime, good coffee, cooking, nature and technology
+- 🌱 I’m currently learning the basics of python after I stopped programming in the age of qbasic
+- 💞️ I’m looking to collaborate on something, but maybe later
+- 📫 How to reach me: alex.nexinex@proton.me
